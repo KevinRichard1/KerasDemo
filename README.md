@@ -1,2 +1,2 @@
 # KerasDemo
-A simple demo of a neural network trained on the MNIST database with Keras.
+A simple demo of a neural network for number recognition, trained on the MNIST database using Keras
